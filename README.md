@@ -11,5 +11,6 @@ This repository contains all of the notes and resources compiled by [Alex](https
 
 [Personal Work Portfolio](https://alexcurci.com)
 
-
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
 
